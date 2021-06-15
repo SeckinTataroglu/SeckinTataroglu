@@ -31,35 +31,13 @@
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-
-<img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/>
-<img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/>
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
 
  
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  
-<img height="50" width="50" src="https://jupyter.org/assets/main-logo.svg"/> 
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/powershell.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/> 
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/azure-1.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><img height="50" width="50" src="https://jupyter.org/assets/main-logo.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/powershell.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/azure-1.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/> 
 
 <br>
 <br>
