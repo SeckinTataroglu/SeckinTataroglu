@@ -20,15 +20,10 @@
 
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
 
-- 📫 How to reach me: 
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="48px"/>](https://www.linkedin.com/in/seckintataroglu/)[<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="48px" style="background-color:#ebcab0" />](https://www.linkedin.com/in/hareesh-r/)
-<br /> **or**
-<br /> **seckintataroglu@lambdabi.com**
-<br> 
-
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="48px" />](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="48px" style="background-color:#ebcab0" />](https://www.lambdabi.com/) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="40px" style="background-color:#ebcab0" />](https://www.lambdabi.com/) <br /> or <br /> <b>seckintataroglu@lambdabi.com</b>
 
+<br> 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
