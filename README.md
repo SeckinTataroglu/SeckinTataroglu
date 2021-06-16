@@ -28,16 +28,16 @@
 
 
 ### I code in
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<code><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/>
-<code><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/>
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<code><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
+<code><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/></code>
+<code><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
+<code><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/></code>
 
  
 
