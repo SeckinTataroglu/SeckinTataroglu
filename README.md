@@ -43,7 +43,15 @@
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><img height="50" width="50" src="https://jupyter.org/assets/main-logo.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/powershell.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/azure-1.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/> 
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
+<code><img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></code>
+<code><img height="50" width="50" src="https://jupyter.org/assets/main-logo.svg"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/powershell.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/azure-1.png"/></code>
+<code><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/></code>
 
 <br>
 
@@ -51,6 +59,10 @@
 
 <!-- MOST USED LANGUAGES -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&layout=compact&hide=html" alt="stataroglu" /></p> -->
+
+<!-- <a href="https://github.com/stataroglu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&theme=light&hide_langs_below=1" />
+</a> -->
 
 
 <!-- GITHUB STATS -->
