@@ -24,7 +24,7 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
 
-
+<br>
 
 ### I code in
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" /></code>
@@ -51,6 +51,7 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/></code>
 
+<br>
 <br>
 
 
