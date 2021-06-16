@@ -21,7 +21,7 @@
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="40px" style="background-color:#ebcab0" />](https://www.lambdabi.com/) <br /> or <br /> <b>seckintataroglu@lambdabi.com</b>
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px" />](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="36px" style="background-color:#ebcab0" />](https://www.lambdabi.com/) <br /> or <br /> <b>seckintataroglu@lambdabi.com</b>
 
 <br> 
 
@@ -35,10 +35,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><img height="50" width="50" src="https://jupyter.org/assets/main-logo.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/powershell.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/azure-1.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/> 
 
 <br>
-<br>
-<br>
-<br>
-
 
 
 
