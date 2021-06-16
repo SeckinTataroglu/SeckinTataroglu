@@ -1,30 +1,31 @@
 <h1 align="center">Hi there 👋 Seckin is here</h1>
 
+
+
 <img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" />
 
+
+
 <h3 align="center">Data Scientist, Machine Learning Engineer, Python Developer</h3>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stataroglu&color=brightgreen" alt="stataroglu" /> </p>
 
 
+
 - 🔭 I’m currently working on **Vessel Emissions and Green Life Optimisations**
-
 - 🌱 I’m currently learning **Cython Implementations**
-
 - 👯 I’m looking to collaborate on **Ultra Low Carbon Emission Solutions**
-
 <!-- - 📝 I regularly write articles on [https://medium.com/@seckintataroglu](https://medium.com/@seckintataroglu) -->
-
 <!-- - 🤔 I’m looking for help with **E-Commerce** -->
-
 - 💬 Ask me about **Tensorflow, Keras, LSTM, TimeSeries Dataset Analysis, Flask, Kivy**
-
 - 😄 Pronouns: **Geekie**
-
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
-
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="36px" style="background-color:lightgrey;" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="36px" style="background-color:rgb(235, 202, 176);" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
+
 
 
 ### I code in
@@ -39,7 +40,6 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="40" width="40" src="https://www.chartjs.org/img/chartjs-logo.svg"/></code>
 
- 
 
 
 ### IDE and Tools I Use
@@ -56,7 +56,6 @@
 <br>
 
 
-
 <!-- MOST USED LANGUAGES -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&layout=compact&hide=html" alt="stataroglu" /></p> -->
 
@@ -65,10 +64,13 @@
 </a> -->
 
 
+
 <!-- GITHUB STATS -->
 <a href="https://github.com/stataroglu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stataroglu&show_icons=true&theme=light&line_height=27" alt="Seckin's github stats"/>
 </a>
+
+
 
 <!-- ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  -->
