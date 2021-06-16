@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cython Implementations**
 
-- 👯 I’m looking to collaborate on **Ultra Low Carbon Emission Production Analysis**
+- 👯 I’m looking to collaborate on **Ultra Low Carbon Emission Solutions**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@seckintataroglu](https://medium.com/@seckintataroglu) -->
 
@@ -28,7 +28,16 @@
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<code><img height="50" width="50" src="https://kivy.org/logos/kivy-logo-black-64.png"/>
+<code><img height="50" width="50" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<code><img height="50" width="50" src="https://www.chartjs.org/img/chartjs-logo.svg"/>
 
  
 
@@ -42,6 +51,7 @@
 
 <!-- MOST USED LANGUAGES -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&layout=compact&hide=html" alt="stataroglu" /></p> -->
+
 
 <!-- GITHUB STATS -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stataroglu&show_icons=true" alt="stataroglu" /></p>
