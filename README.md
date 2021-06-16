@@ -18,8 +18,6 @@
 - 🔭 I’m currently working on **Vessel Emissions and Green Life Optimisations**
 - 🌱 I’m currently learning **Cython Implementations**
 - 👯 I’m looking to collaborate on **Ultra Low Carbon Emission Solutions**
-<!-- - 📝 I regularly write articles on [https://medium.com/@seckintataroglu](https://medium.com/@seckintataroglu) -->
-<!-- - 🤔 I’m looking for help with **E-Commerce** -->
 - 💬 Ask me about **Tensorflow, Keras, LSTM, TimeSeries Dataset Analysis, Flask, Kivy**
 - 😄 Pronouns: **Geekie**
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
