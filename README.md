@@ -24,7 +24,7 @@
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px" />](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="36px" style="background-color:#ebcab0" />](https://www.lambdabi.com/) <br /> or <br /> <b>seckintataroglu@lambdabi.com</b>
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) [<img src="https://www.lambdabi.com/assets/img/logoMedium-shadow-3.png" height="36px" style="background-color:#ebcab0;" />](https://www.lambdabi.com/) &nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
 
 
 ### I code in
