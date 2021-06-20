@@ -22,7 +22,8 @@
 - 😄 Pronouns: **Geekie**
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="36px"/>]("mailto:seckintataroglu@lambdabi.com") [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b> 
+
 
 <br>
 
