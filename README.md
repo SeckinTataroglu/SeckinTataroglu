@@ -22,7 +22,10 @@
 - 😄 Pronouns: **Geekie**
 - ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="36px"/>]("mailto:seckintataroglu@lambdabi.com") [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br />
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; <a href="mailto:seckintataroglu@lambdabi.com"><img alt="Gmail" height="36px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br />
+
+<a href="mailto:seckintataroglu@lambdabi.com"><img alt="Gmail" height="36px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
 <br>
 
