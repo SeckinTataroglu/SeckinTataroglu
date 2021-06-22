@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 Seckin is here</h1>
 
 
-<a href="" style="pointer-events: none;  cursor: default;">
+<a href="https://github.com/stataroglu" style="pointer-events: none;  cursor: default;">
 <img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" />
 </a>
 
