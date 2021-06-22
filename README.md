@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" />
+<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" pointer-events: none />
 
 
 
