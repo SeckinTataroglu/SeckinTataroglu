@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋 Seckin is here</h1>
 
 
-
-<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" pointer-events: none />
-
+<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" style="pointer-events: none;" />
 
 
 <h3 align="center">Data Scientist, Machine Learning Engineer, Python Developer</h3>
