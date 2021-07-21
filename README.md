@@ -66,8 +66,8 @@
 
 
 <!-- GITHUB STATS -->
-<a href="https://github.com/stataroglu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=stataroglu&show_icons=true&theme=light&line_height=27" alt="Seckin's github stats"/>
+<a href="https://github.com/SeckinTataroglu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeckinTataroglu&show_icons=true&theme=light&line_height=27" alt="Seckin's github stats"/>
 </a>
 
 
