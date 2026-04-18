@@ -40,29 +40,33 @@
 - 😄 Pronouns: **Puzzle Solver**
 
 ### 📫 How to reach me
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="https://cdn.ucl.ac.uk/logos/ucl/ucl-logo--primary.svg" style="background-color: rgba(255, 255, 255, 0.16); padding: 4px 6px; border-radius: 6px;" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="https://cdn.ucl.ac.uk/logos/ucl/ucl-logo--primary.svg" style="background-color: rgba(255, 255, 255, 0.22); padding: 4px 6px; border-radius: 6px;" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
 
 <br>
 
 ### I code in
-<p>
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-</p>
+<table>
+  <tr>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /></td>
+  </tr>
+</table>
 
 ### IDE and Tools I Use
-<p>
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/claude/FFFFFF" alt="Claude" />
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" />
-  <img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/google-cloud.png" alt="Google Cloud" />
-  <img height="40" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" />
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-</p>
+<table>
+  <tr>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /></td>
+    <td><img height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" /></td>
+    <td><img height="40" width="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" /></td>
+    <td><img height="40" width="40" src="https://cdn.simpleicons.org/claude/FFFFFF" alt="Claude" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/google-cloud.png" alt="Google Cloud" /></td>
+    <td><img height="40" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" /></td>
+    <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /></td>
+  </tr>
+</table>
 
 
 <br>
