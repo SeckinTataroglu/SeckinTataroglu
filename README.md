@@ -1,28 +1,46 @@
 <h1 align="center">Hi there 👋 Seckin is here</h1>
-
-
 <a href="https://github.com/stataroglu" style="pointer-events: none;  cursor: default;">
-<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" />
 </a>
-
-
-<h3 align="center">Data Scientist, Machine Learning Engineer, Python Developer</h3>
-
-
-
-
+<h3 align="center">PhD Researcher in High-Frequency Trading | Data Scientist | Quantitative Finance</h3>
+<img align="right" alt="GIF" src="https://github.com/stataroglu/stataroglu/blob/main/coding.gif?raw=true" height="350" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stataroglu&color=brightgreen" alt="stataroglu" /> </p>
 
+### 🎓 Academic Journey
+- 📚 **PhD Candidate** at UCL Institute of Finance and Technology (May 2026 - May 2030)
+- 🏆 **Chadwick Scholar** - researching High-Frequency Trading, market microstructure, and quantitative finance
+- 🔬 Focus areas: **Limit Order Books, Optimal Execution, ML in Trading Systems**
 
+### 🚀 Current Work
+- 🔭 Data Scientist at **European Space Agency** (Contract)
+- 🌱 Working on **Vessel Emissions Analysis and AIS Data Processing**
+- 📊 Building **Maritime Analytics Systems** with Python and PostgreSQL
+- 💹 Preparing for transition back to **Quantitative Finance and HFT**
 
-- 🔭 I’m currently working on **Vessel Emissions and Green Life Optimisations**
-- 🌱 I’m currently learning **Cython Implementations**
-- 👯 I’m looking to collaborate on **Ultra Low Carbon Emission Solutions**
-- 💬 Ask me about **Tensorflow, Keras, LSTM, TimeSeries Dataset Analysis, Flask, Kivy**
-- 😄 Pronouns: **Geekie**
-- ⚡ Fun fact: **I'm a traveller, coffee enthusiast and drummer**
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; <a href="mailto:seckintataroglu@gmail.com"><img alt="Gmail" height="36px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png"  height="46px" />](https://www.lambdabi.com/) <br /> &nbsp;&nbsp; <b>or</b> &nbsp; <b>seckintataroglu@lambdabi.com</b>
+### 💼 Background
+- 📈 Former **FX/Derivatives Trader** transitioning to quantitative research
+- 🎓 MSc in **Data Science and AI**
+- 🔄 Career trajectory: Trading → Data Science → ESA Contractor → PhD in HFT
+
+### 🤝 Collaboration Interests
+- 👯 **High-Frequency Trading** algorithms and market microstructure research
+- 📊 **Quantitative Finance** and algorithmic trading systems
+- 🌍 **Ultra Low Carbon Emission Solutions** and maritime optimization
+- 🤖 **Machine Learning** applications in financial markets
+
+### 💬 Ask me about
+- **Finance & Trading:** Market Microstructure, HFT, Limit Order Books, Derivatives  
+- **Data Science:** TensorFlow, Keras, LSTM, Time Series Analysis  
+- **Engineering:** Flask, PostgreSQL, Cython Implementations, Python Optimization  
+- **Research:** Quantitative Finance, ML in Trading, Bayesian Methods
+
+### ⚡ Fun facts
+- 🥁 Former professional **drummer** - rhythm is in my DNA
+- ☕ **Coffee enthusiast** and traveler
+- 🎸 Played guitar, harmonica, and drums professionally during my teens
+- 😄 Pronouns: **Puzzle Solver**
+
+### 📫 How to reach me
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="https://cdn.ucl.ac.uk/logos/ucl/ucl-logo--primary.svg" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
 
 <br>
 
@@ -30,49 +48,32 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" /></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
-<code><img height="40" width="40" src="https://kivy.org/logos/kivy-logo-black-64.png"/></code>
-<code><img height="40" width="40" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
-<code><img height="40" width="40" src="https://www.chartjs.org/img/chartjs-logo.svg"/></code>
-
-
 
 ### IDE and Tools I Use
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
-<code><img height="40" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></code>
-<code><img height="40" width="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/powershell.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+<code><img height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF"/></code>
+<code><img height="40" width="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"/></code>
+<code><img height="40" width="40" src="https://cdn.simpleicons.org/claude/FFFFFF"/></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/></code>
+<code><img height="40" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"/></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+
 
 <br>
 <br>
 <br>
-
 
 <!-- MOST USED LANGUAGES -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&layout=compact&hide=html" alt="stataroglu" /></p> -->
-
 <!-- <a href="https://github.com/stataroglu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stataroglu&theme=light&hide_langs_below=1" />
 </a> -->
-
-
-
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 <a href="https://github.com/SeckinTataroglu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeckinTataroglu&show_icons=true&theme=light&line_height=27" alt="Seckin's github stats"/>
-</a>
-
-
-
+</a> -->
 <!-- ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  -->
-
 <!-- [![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs&theme=dark)](https://github.com/hareesh-r/github-readme-stats) -->
