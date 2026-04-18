@@ -7,7 +7,7 @@
 
 ### 🎓 Academic Journey
 - 📚 **PhD Candidate** at UCL Institute of Finance and Technology (May 2026 - May 2030)
-- 🏆 **Chadwick Scholar** - researching High-Frequency Trading, market microstructure, and quantitative finance
+- 🏆 **Chadwick Fellow** - researching High-Frequency Trading, market microstructure, and quantitative finance
 - 🔬 Focus areas: **Limit Order Books, Optimal Execution, ML in Trading Systems**
 
 ### 🚀 Current Work
