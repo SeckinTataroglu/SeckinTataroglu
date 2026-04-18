@@ -40,7 +40,7 @@
 - 😄 Pronouns: **Puzzle Solver**
 
 ### 📫 How to reach me
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="https://cdn.ucl.ac.uk/logos/ucl/ucl-logo--primary.svg" style="background-color: rgba(255, 255, 255, 0.22); padding: 4px 6px; border-radius: 6px;" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="https://cdn.ucl.ac.uk/logos/ucl/ucl-logo--primary.svg" style="background-color: rgba(0, 0, 0, 0); padding: 4px 6px; border-radius: 6px;" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
 
 <br>
 
