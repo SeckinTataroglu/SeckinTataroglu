@@ -40,7 +40,7 @@
 - 😄 Pronouns: **Puzzle Solver**
 
 ### 📫 How to reach me
-<br /> [<img alt="LinkedIn" src="./linkedin_cropped.png" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp; [<img alt="UCL Email" height="36px" src="./ucl-logo-white.svg" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
+<br /> [<img alt="LinkedIn" src="./linkedin_cropped.png" height="36px"/>](https://www.linkedin.com/in/seckintataroglu/) &nbsp;&nbsp;&nbsp; [<img alt="UCL Email" height="36px" src="./ucl-logo-white.svg" />](mailto:seckin.tataroglu.25@ucl.ac.uk) &nbsp;&nbsp;&nbsp; [<img valign="bottom" src="https://github.com/stataroglu/stataroglu/blob/main/lambda.png" height="46px" />](https://www.lambdabi.com/)
 
 <br>
 
